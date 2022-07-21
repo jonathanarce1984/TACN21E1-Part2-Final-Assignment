@@ -1,0 +1,12 @@
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\bin\Release\EntityFrameworkCode-FirstAssignmentApp.exe.config
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\bin\Release\EntityFrameworkCode-FirstAssignmentApp.exe
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\bin\Release\EntityFrameworkCode-FirstAssignmentApp.pdb
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\bin\Release\EntityFramework.dll
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\bin\Release\EntityFramework.SqlServer.dll
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\bin\Release\EntityFramework.xml
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\bin\Release\EntityFramework.SqlServer.xml
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\obj\Release\EntityFrameworkCode-FirstAssignmentApp.csproj.CoreCompileInputs.cache
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\obj\Release\EntityFrameworkCode-FirstAssignmentApp.csproj.CopyComplete
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\obj\Release\EntityFrameworkCode-FirstAssignmentApp.exe
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\obj\Release\EntityFrameworkCode-FirstAssignmentApp.pdb
+D:\part time\EntityFrameworkCode-FirstAssignmentApp\EntityFrameworkCode-FirstAssignmentApp\obj\Release\EntityFrameworkCode-FirstAssignmentApp.csprojAssemblyReference.cache
